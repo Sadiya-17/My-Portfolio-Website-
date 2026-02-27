@@ -30,5 +30,5 @@ Welcome to my portfolio website! This repository contains the source code for my
 - SEO optimization
 - Accessibility considerations  
 
-## [Portfolio Website Click Here =>💁‍♂️🚀](https://sadiyahossain.netlify.app/)
+## [Portfolio Website Click Here => (https://sadiyahossain.netlify.app/)]
 
